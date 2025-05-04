@@ -1,0 +1,78 @@
+{
+  "Student": [
+    {
+      "id": "9eab",
+      "FirstName": "Rahul",
+      "LastName": "SHARMA",
+      "Email": "ABHISHEK@GMAILC.OM",
+      "Mobile": "LDSJ",
+      "Password": "1234",
+      "CunPassword": "LKJDSLKF"
+    },
+    {
+      "id": "dcdc",
+      "FirstName": "rahul",
+      "LastName": "saini",
+      "Email": "ashishkumawat685@gmail.com",
+      "Mobile": "99",
+      "Password": "as",
+      "CunPassword": "as"
+    },
+    {
+      "id": "c7c9",
+      "FirstName": "nirmal",
+      "LastName": "kumar",
+      "Email": "n@gmail.com",
+      "Mobile": "1234",
+      "Password": "1234",
+      "CunPassword": "1234"
+    },
+    {
+      "id": "15f7",
+      "FirstName": "Ashish",
+      "LastName": "kumawat",
+      "Email": "ashishkumawat685@gmail.com",
+      "Mobile": "09785152556",
+      "Password": "kk",
+      "CunPassword": "kk"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "9eab",
+      "FirstName": "Rahul",
+      "LastName": "SHARMA",
+      "Email": "ABHISHEK@GMAILC.OM",
+      "Mobile": "LDSJ",
+      "Password": "LKJSALDKF",
+      "CunPassword": "LKJDSLKF"
+    },
+    {
+      "id": "d24a",
+      "FirstName": "Ashish",
+      "LastName": "Kumawat",
+      "Email": "ashishkumawat685@gmail.com",
+      "Mobile": "9785152556",
+      "Password": "Ashish",
+      "CunPassword": "Ashish"
+    },
+    {
+      "id": "d24a",
+      "FirstName": "Ashish",
+      "LastName": "Kumawat",
+      "Email": "ashishkumawat685@gmail.com",
+      "Mobile": "9785152556",
+      "Password": "Ashish",
+      "CunPassword": "Ashish"
+    },
+    {
+      "id": "9eab",
+      "FirstName": "Rahul",
+      "LastName": "SHARMA",
+      "Email": "ABHISHEK@GMAILC.OM",
+      "Mobile": "LDSJ",
+      "Password": "LKJSALDKF",
+      "CunPassword": "LKJDSLKF"
+    }
+  ]
+}

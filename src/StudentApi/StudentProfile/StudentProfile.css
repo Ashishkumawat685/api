@@ -1,0 +1,23 @@
+.Profilecontainer {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+    background-color: #27445D;
+}
+
+.Profilecontainer:hover {
+    color: gold;
+    border: 2px solid rgb(94, 188, 228);
+}
+
+.Profilecontainer p {
+    font-size: 35px;
+    font-weight: 700;
+}
